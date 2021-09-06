@@ -23,7 +23,7 @@
 
 
 ##### Languages I have used
-![Python](https://img.shields.io/badge/-python-000000?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
 ![Html5](https://img.shields.io/badge/-Html5-000000?style=flat&logo=html5)
 ![Css3](https://img.shields.io/badge/-Css3-000000?style=flat&logo=css3)
@@ -31,7 +31,7 @@
 
 
 #### Frameworks I have used
-![Django](https://img.shields.io/badge/-django-000000?style=flat&logo=django)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
