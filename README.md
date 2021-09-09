@@ -21,14 +21,14 @@
 <br/>
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="400" />
 
 - 🔭 I’m Django / React Developer
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to collaborate on ROR
 - 🤔 I’m looking for help with REDUX / HOOKS
 - 💬 Ask me about Django and React / Next
-- 📫 How to reach me: mdtalhaabbas@gmail.com
+- 📫 How to reach me: [@mtalhaabbas](mdtalhaabbas@gmail.com)
 - ⚡ Fun fact: React is Not a Framework, But a JavaScript Library
 
 
