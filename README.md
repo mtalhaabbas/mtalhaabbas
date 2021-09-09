@@ -1,4 +1,4 @@
-### Hi there, I'm Talha Abbas Full-Stack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>😄 
+### Hi there, I'm Talha Abbas Full-Stack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/>😄 
 
 <a href="https://www.linkedin.com/in/mtalhaabbas/">
   <img align="left" alt="Pawan's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -50,19 +50,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Material-ui](https://img.shields.io/badge/-materialUi-000000?style=flat&logo=material-ui)
 
-
-
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-React.js       7 hrs 41 mins   ███████████████████▓░░░░░ 
-JavaScript     4 hrs 42 mins   ██████████████▓░░░░░░░░░░ 
-Python         3 hrs 22 mins   ████████████▒░░░░░░░░░░░░ 
-Django         2 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░ 
-Git Config     36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
+<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhaabbas&hide_langs_below=1&layout=compact&theme=dark">
 </p>
