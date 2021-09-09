@@ -1,4 +1,4 @@
-## Hi there, I'm Talha Abbas Full-Stack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/>😄 
+### Hi there, I'm Talha Abbas Full-Stack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"/>😄 
 
 <a href="https://www.linkedin.com/in/mtalhaabbas/">
   <img align="left" alt="Pawan's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
