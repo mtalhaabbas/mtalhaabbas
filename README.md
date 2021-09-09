@@ -53,11 +53,22 @@
 
 
 
-<p align="center">
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhaabbas&hide_langs_below=1&layout=compact&theme=dark">
 </p>
-GitHub Stats
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+React.js       7 hrs 41 mins   ███████████████████▓░░░░░ 
+JavaScript     4 hrs 42 mins   ██████████████▓░░░░░░░░░░ 
+Python         3 hrs 22 mins   ████████████▒░░░░░░░░░░░░ 
+Django         2 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░ 
+Git Config     36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░
+```
+<details>
+  <summary>My GitHub Stats</summary> 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mtalhaabbas&show_icons=true&theme=dark">
 </p>
-
+</details>
