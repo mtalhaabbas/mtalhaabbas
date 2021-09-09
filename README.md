@@ -15,6 +15,17 @@
 <a href="https://twitter.com/mtalhaabbas">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+
+<br/>
+<br/>
+
+
+Hi, I'm [Talha Abbas](https://talhaabbas.com), a Full Stack Web Developer 🚀 from Pakistan, currently, I love to creating awesome web application using Html, Css, Js, Python & Django. 
+
+
+
+
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 <br/>
