@@ -30,7 +30,7 @@
 - 👯 I’m looking to collaborate on ROR
 - 🤔 I’m looking for help with REDUX / HOOKS
 - 💬 Ask me about Django and React / Next
-- 📫 How to reach me: [@mtalhaabbas](mdtalhaabbas@gmail.com)
+- 📫 How to reach me: [@mtalhaabbas](mailto:mdtalhaabbas@gmail.com)
 - ⚡ Fun fact: React is Not a Framework, But a JavaScript Library
 
 
