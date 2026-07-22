@@ -39,8 +39,6 @@ I'm a backend engineer who builds scalable APIs, database architectures, and AI-
 | **AegisFlow** — real-time intrusion detection dashboard combining an ML network classifier with regex-based log analysis | `Flask` `Scikit-Learn` `Scapy` | [Repo](https://github.com/mtalhaabbas/aegisflow) |
 | **PrismLang** — AI language-learning platform with interlinear sentence analysis & real-time pronunciation scoring | `Next.js` `TypeScript` `Google Gemini API` `Web Speech API` | [Repo](https://github.com/mtalhaabbas/prismlang) |
 
-<sub>→ Update the repo links above once these are public</sub>
-
 <br/>
 
 ## Stack
