@@ -71,7 +71,7 @@ I'm a backend engineer who builds scalable APIs, database architectures, and AI-
 <details>
   <summary>My GitHub Stats</summary>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mtalhaabbas&show_icons=true&theme=dark">
+<img src="https://gh-readme-profile.vercel.app/api?username=mtalhaabbas&theme=dark&title=Talha%27s+Github+Stats">
 </p>
 </details>
 
