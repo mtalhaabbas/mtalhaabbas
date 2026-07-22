@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1512,60:5e463a,100:dcaf99&height=190&section=header&text=Talha%20Abbas&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Backend%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1512,60:5e463a,100:dcaf99&height=190&section=header&text=Muhammad%20Talha%20Abbas&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Backend%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://talhaabbas.com">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&pause=1000&color=DCAF99&center=true&vCenter=true&width=620&height=45&lines=I+build+scalable+backend+systems+%26+APIs.;Django+%C2%B7+FastAPI+%C2%B7+Flask+%C2%B7+PostgreSQL;AI%2FLLM+integrations+%2B+n8n+automation;Gold+Medalist+in+Software+Engineering." alt="typing"/>
