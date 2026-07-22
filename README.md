@@ -18,7 +18,7 @@
 
 <br/>
 
-I'm a backend engineer who builds scalable APIs, database architectures, and AI-integrated features for production SaaS products. Over **4+ years** I've built subscription billing systems, integrated OpenAI/GPT and Google Gemini into user-facing features, optimized database performance with Redis (cutting primary load by up to **75%** on one product), and designed **n8n automation workflows** that eliminate manual business processes.
+I'm a backend software engineer who builds scalable APIs, database architectures, and AI-integrated features for production SaaS products. Over **4+ years**, I've built subscription billing systems, integrated OpenAI/GPT and Google Gemini into user-facing features, optimized database performance with Redis (cutting primary load by up to **75%** on one product), and designed **n8n automation workflows** that eliminate manual business processes.
 
 <br/>
 
@@ -26,18 +26,26 @@ I'm a backend engineer who builds scalable APIs, database architectures, and AI-
 
 | Project | Stack | Link |
 |---|---|---|
-| **WordMe** — SaaS platform with subscription billing, SEO tooling & AI blog writer | `Flask` `Stripe` `OpenAI` `Google Console API` | [wordme.ai](https://wordme.ai/) |
+| **WordMe** — SaaS platform with subscription billing, SEO tooling & AI blog writer | `Flask` `Stripe` `OpenAI` `Google Console API` | [wordme.ai](https://wordme-frontend.vercel.app/) |
 | **Proposal Genie** — AI-generated proposals & cover letters | `OpenAI/GPT` `Stripe` `CI/CD` | [proposalgenie.ai](https://proposalgenie.ai/) |
 | **NotePD** — idea-generation & collaborative content platform | `OpenAI/GPT` `Redis` `Sentence Transformers` | [notepd.com](https://notepd.com/) |
+| **Filtr Coffee** — discover specialty coffees from independent roasters, with taste-profile, origin & processing-method filtering | `Django` `OpenAI` `Tailwind CSS` | [filtr.uk](https://filtr.uk/) |
 
 <br/>
 
-## Personal Projects
+## Featured Projects
 
 | Project | Stack | Link |
 |---|---|---|
 | **AegisFlow** — real-time intrusion detection dashboard combining an ML network classifier with regex-based log analysis | `Flask` `Scikit-Learn` `Scapy` | [Repo](https://github.com/mtalhaabbas/aegisflow) |
 | **PrismLang** — AI language-learning platform with interlinear sentence analysis & real-time pronunciation scoring | `Next.js` `TypeScript` `Google Gemini API` `Web Speech API` | [Repo](https://github.com/mtalhaabbas/prismlang) |
+
+<br/>
+
+## More Projects
+
+| Project | Stack | Link |
+|---|---|---|
 | **Text-to-Voice (TTS) Web App** — converts text into natural-sounding speech using Microsoft Edge's neural TTS engine, with rich settings and real-time generation tracking | `Flask` `Edge-TTS` | [Repo](https://github.com/mtalhaabbas/text-to-voice) |
 | **PDF Text Editor** — click-to-edit PDF text tool preserving original font, size, and color, with OCR support for text rendered as images | `Python` `OCR` | [Repo](https://github.com/mtalhaabbas/pdf_editor) |
 | **COVID-19 Cases Tracker** — worldwide vaccination tracker with interactive map visualization | `React` `Leaflet` `OpenStreetMap` | [Repo](https://github.com/mtalhaabbas/covid-19-vaccines-tracker) |
