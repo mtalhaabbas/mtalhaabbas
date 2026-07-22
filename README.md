@@ -80,7 +80,7 @@ I'm a backend software engineer who builds scalable APIs, database architectures
 <details>
   <summary>My GitHub Stats</summary>
 <p align="center">
-<img src="https://gh-readme-profile.vercel.app/api?username=mtalhaabbas&theme=default&title=Talha%27s+Github+Stats">
+<img src="https://gh-readme-profile.vercel.app/api?username=mtalhaabbas&theme=dark&title=Talha%27s+Github+Stats">
 </p>
 </details>
 
