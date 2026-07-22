@@ -65,7 +65,7 @@ I'm a backend engineer who builds scalable APIs, database architectures, and AI-
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtalhaabbas&hide_langs_below=1&layout=compact&theme=dark">
+<img src="https://www.readmecodegen.com/api/github-stats/svg?username=mtalhaabbas&cardType=langs">
 </p>
 
 <details>
